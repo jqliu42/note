@@ -8,3 +8,7 @@
   > placeholder
 - [linkedlist是双向链表，priorityQueue默认是小顶堆？](#)
   > placeholder
+- [java的基本类型有哪些？所占字节数？](#)
+  > int 4字节, char 2字节, byte 1字节, short 2字节, long 8字节, float 4字节, double 8字节， JVM规范中， boolean变量作为int处理，也就是4字节, boolean数组当做byte数组处理
+- [hashmap和hashtable的区别？](#)
+  > hashmap是hashtable的轻量级实现，都完成了Map接口，主要区别在于hashmap允许null key和null value，由于非线程安全，效率可能高于hashtable。hashtable是线程安全的。
