@@ -6,3 +6,5 @@
   > 和String类不同的是，StringBuffer和StringBuilder类的对象能够被多次的修改，并且不产生新的未使用对象， StringBuffer是线程安全的，不过StringBuilder具有速度优势，所以大多数情况下建议使用StringBuilder
 - [java的volatile关键字？和C语言中的volatile关键字有什么区别？](#)
   > placeholder
+- [linkedlist是双向链表，priorityQueue默认是小顶堆？](#)
+  > placeholder
