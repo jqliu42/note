@@ -8,5 +8,7 @@
   > placeholder
 - [ 进程内存分区？](#)
   > placeholder
+- [ linux在x86上的虚拟地址空间划分是怎样的？](#)
+  > placeholder
   
   
