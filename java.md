@@ -14,3 +14,6 @@
   > hashmap是hashtable的轻量级实现，都完成了Map接口，主要区别在于hashmap允许null key和null value，由于非线程安全，效率可能高于hashtable。hashtable是线程安全的。
 - [如何对多维数组排序？](#)
   > placeholder
+- [map.getOrDefault(c,0)](#)
+  > placeholder
+
