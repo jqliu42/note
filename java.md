@@ -21,4 +21,4 @@
 - [手写hashmap?](#)
   > placeholder
 - [线程池?](#)
-  > placeholder
+  > [美团技术博客](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
