@@ -22,3 +22,4 @@
   > placeholder
 - [线程池?为什么使用线程池？如何设置参数？](#)
   > [美团技术博客](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
+- Arrays.sort 对字符串数组排序后，改变的是数组指向
