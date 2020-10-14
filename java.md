@@ -1,3 +1,4 @@
+- [B站面试视频参考](https://www.bilibili.com/video/BV1sE411M7Nv?from=search&seid=6755642384610971427)
 - [hashmap如何扩容？](#)
   > placeholder
 - [equals和"=="的区别？](#)
@@ -18,7 +19,7 @@
   > placeholder
 - [hashmap死循环问题？concurrentHashmap？](#)
   > placeholder
-- [手写hashmap?](#)
+- [手写hashmap?jdk1.7到jdk1.8是对其有什么实现区别？](#)
   > placeholder
 - [线程池?为什么使用线程池？如何设置参数？](#)
   > [美团技术博客](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
