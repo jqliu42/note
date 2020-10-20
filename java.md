@@ -28,4 +28,6 @@
   > placeholder
 - [常见设计模式如工厂模式单例模式如何实现?](#)
   > placeholder
+- [java8有什么新特性?](#)
+  > placeholder
 
